@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Articulo": 6
+  },
+  "models": {
+    "Articulo": {
+      "3": "{\"nombrearticulo\":\"elote\",\"precio\":\"22\",\"cantidad\":\"1\",\"departamento\":\"articulos\",\"id\":3}",
+      "4": "{\"nombrearticulo\":\"string\",\"precio\":\"string\",\"cantidad\":\"string\",\"departamento\":\"string\",\"id\":4}",
+      "5": "{\"nombrearticulo\":\"cocos\",\"precio\":\"25\",\"cantidad\":\"1\",\"departamento\":\"varios\",\"id\":5}"
+    }
+  }
+}
